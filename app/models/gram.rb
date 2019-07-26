@@ -1,2 +1,5 @@
 class Gram < ApplicationRecord
-end
+  validates :message, presence: true
+
+  belongs_to :user
+end 
