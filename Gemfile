@@ -3,6 +3,12 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
 
+# fog gem allows amazon to communicate to Heroku
+gem "fog-aws"
+# figaro gem
+gem "figaro"
+# Carrier Wave
+gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 # Devise
 gem 'devise'
 # SimpleForm
