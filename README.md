@@ -1,3 +1,3 @@
-# README
-<img src="Grammable.gif">
+# Grammable an Instagram clone
 
+<img src="Grammable.gif">
