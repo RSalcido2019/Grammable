@@ -1,3 +1,3 @@
 # Grammable an Instagram clone
 
-<img src="Grammable.gif">
+<img src="Grammable GIF.gif">
